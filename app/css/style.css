@@ -3213,9 +3213,9 @@ i.fa_icon.form_close {
 	-moz-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	background: -webkit-radial-gradient(50% 50%, ellipse closest-side, #fff, rgba(255, 42, 112, 0) 60%);
-	background: -moz-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
-	background: -ms-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
-	background: -o-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
+	background: -moz-radial-gradient(50% 50%, ellipse closest-side, #757575, rgba(255, 42, 112, 0) 60%);
+	background: -ms-radial-gradient(50% 50%, ellipse closest-side, #757575, rgba(255, 42, 112, 0) 60%);
+	background: -o-radial-gradient(50% 50%, ellipse closest-side, #757575, rgba(255, 42, 112, 0) 60%);
 }
 .ms_register_form .form-group {
 	position: relative;
@@ -3251,7 +3251,7 @@ i.fa_icon.form-lock {
 .ms_register_form a.ms_btn:hover,
 .ms_lang_popup .modal-content.add_lang .ms_lang_btn a.ms_btn:hover {
 	background-color: #ffffff;
-	color: #22bed7;
+	color: #757575;
 }
 .ms_register_form p {
 	text-align: center;
@@ -3281,9 +3281,9 @@ i.fa_icon.form-lock {
 	-moz-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	background: -webkit-radial-gradient(50% 50%, ellipse closest-side, #fff, rgba(255, 42, 112, 0) 60%);
-	background: -moz-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
-	background: -ms-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
-	background: -o-radial-gradient(50% 50%, ellipse closest-side, #3bc8e7, rgba(255, 42, 112, 0) 60%);
+	background: -moz-radial-gradient(50% 50%, ellipse closest-side, #757575, rgba(255, 42, 112, 0) 60%);
+	background: -ms-radial-gradient(50% 50%, ellipse closest-side, #757575, rgba(255, 42, 112, 0) 60%);
+	background: -o-radial-gradient(50% 50%, ellipse closest-side,#757575, rgba(255, 42, 112, 0) 60%);
 	transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
